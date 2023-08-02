@@ -8,3 +8,5 @@
 albert46/albert46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![status](https://api.statusbadges.me/badge/status/209336314615693312?simple=true)
