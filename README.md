@@ -2,7 +2,7 @@
 - 👀 I’m interested in Create Game Server
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on dev game
-- 📫 How to reach me [Dracule Mihawk™ ]#9906
+- 📫 How to reach me @albert4535 on Discord
 
 <!---
 albert46/albert46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
